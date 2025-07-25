@@ -1,7 +1,5 @@
 # Avis Google QR Code : Guide Complet pour Collecter des Avis
-
 ## Qu'est-ce qu'un QR Code d'avis Google ?
-
 <p>Un <strong>QR Code d'avis Google</strong> est un code-barres en deux dimensions. Il permet aux clients de laisser un avis sur votre entreprise rapidement. Avec un simple scan, ils peuvent accéder à votre page Google pour rédiger leur opinion.</p>
 
 <p>Mais pourquoi utiliser un QR Code pour les avis ? Voici quelques avantages :</p>
